@@ -1,0 +1,40 @@
+-------------------------------------------------------------------------------
+Test set: TA_21_Maven.EjerciciosClase.CalculadoraTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 6, Skipped: 0, Time elapsed: 0.03 s <<< FAILURE! - in TA_21_Maven.EjerciciosClase.CalculadoraTest
+testResta  Time elapsed: 0.02 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at TA_21_Maven.EjerciciosClase.CalculadoraTest.testResta(CalculadoraTest.java:28)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	at TA_21_Maven.EjerciciosClase.CalculadoraTest.testResta(CalculadoraTest.java:28)
+
+testSuma  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at TA_21_Maven.EjerciciosClase.CalculadoraTest.testSuma(CalculadoraTest.java:20)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	at TA_21_Maven.EjerciciosClase.CalculadoraTest.testSuma(CalculadoraTest.java:20)
+
+testValorErroneo  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at TA_21_Maven.EjerciciosClase.CalculadoraTest.testValorErroneo(CalculadoraTest.java:59)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	at TA_21_Maven.EjerciciosClase.CalculadoraTest.testValorErroneo(CalculadoraTest.java:59)
+
+testMultiplicacion  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at TA_21_Maven.EjerciciosClase.CalculadoraTest.testMultiplicacion(CalculadoraTest.java:37)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	at TA_21_Maven.EjerciciosClase.CalculadoraTest.testMultiplicacion(CalculadoraTest.java:37)
+
+testDivision  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at TA_21_Maven.EjerciciosClase.CalculadoraTest.testDivision(CalculadoraTest.java:45)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	at TA_21_Maven.EjerciciosClase.CalculadoraTest.testDivision(CalculadoraTest.java:45)
+
+testDivisionExcep  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at TA_21_Maven.EjerciciosClase.CalculadoraTest.testDivisionExcep(CalculadoraTest.java:52)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	at TA_21_Maven.EjerciciosClase.CalculadoraTest.testDivisionExcep(CalculadoraTest.java:52)
+

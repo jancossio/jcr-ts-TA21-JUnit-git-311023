@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TA_21_Maven.EjerciciosClase.GeometriaTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.007 s <<< FAILURE! - in TA_21_Maven.EjerciciosClase.GeometriaTest
+TA_21_Maven.EjerciciosClase.GeometriaTest  Time elapsed: 0.006 s  <<< ERROR!
+org.junit.platform.commons.JUnitException: @BeforeAll method 'public void TA_21_Maven.EjerciciosClase.GeometriaTest.testBeforeClass()' must be static unless the test class is annotated with @TestInstance(Lifecycle.PER_CLASS).
+
